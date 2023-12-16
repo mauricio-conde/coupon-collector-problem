@@ -2,6 +2,8 @@
 <center><h5>Versión Álbum del FIFA World Cup Qatar 2022™ de Panini</h5></center>
 <center>Mauricio Conde - Matías Zieleniec</center>
 
+---
+
 En este proyecto se trata de estimar la cantidad de sobres necesarios para completar el Álbum del Mundial de Catar 2022 en función de varios factores. El principal factor es la cantidad de personas con las que se intercambian las figuritas repetidas, ¿cuál es el promedio de sobres necesarios para completar el álbum si se colecciona con un grupo de 10 personas?, ¿y de a 5?, ¿y solo? Estas preguntas y más tratamos de responder a lo largo de este informe.
 
 Para fijar ideas y poner algunas cosas en común debemos de tener en cuenta algunos factores:
